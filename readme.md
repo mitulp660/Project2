@@ -1,10 +1,11 @@
-# Project-2
+                   ------------
+                     Project-2                
+                    -----------   
+=============Test Setup Instructions=============
 
-Test Setup Instructions
+1.  Make a new Laravel site. => Done.
 
-1.  Make a new Laravel site.
-
-2.  Generate the authentication.
+2.  Generate the authentication. => Done.
 
 3.  Create a database seed that inserts 50 users
 
@@ -18,7 +19,10 @@ Test Setup Instructions
 
 8.  Create a controller, route, and view to show an about page and add it to the main menu of your site.
 
-Unit tests - Each unit test uses an Assertion to check if it was done.
+
+        =============Unit tests=========== 
+        
+  - Each unit test uses an Assertion to check if it was done.
 
 1.  Write a feature test to check if the register return a 200 status code.
 
