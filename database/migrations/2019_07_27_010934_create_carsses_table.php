@@ -16,7 +16,8 @@ class CreateCarssesTable extends Migration
         Schema::create('carsses', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->enum( 'make',['ford', 'honda','toyota']);
-            $table->string('model');
+
+           $table->string('model');
             $table->year('year');
             $table->timestamps();
         });
