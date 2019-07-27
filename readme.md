@@ -7,7 +7,7 @@
 
 2.  Generate the authentication. => Done.
 
-3.  Create a database seed that inserts 50 users 
+3.  Create a database seed that inserts 50 users => Done.
 
 4.  Create a new model called car and add 3 properties to it: Make, Model, and year
 
