@@ -1,7 +1,7 @@
-                   ------------
+                    -----------
                      Project-2                
                     -----------   
-=============Test Setup Instructions=============
+=============Test Setup Instructions===============
 
 1.  Make a new Laravel site. => Done.
 
@@ -9,18 +9,18 @@
 
 3.  Create a database seed that inserts 50 users => Done.
 
-4.  Create a new model called car and add 3 properties to it: Make, Model, and year
+4.  Create a new model called car and add 3 properties to it: Make, Model, and year => Done.
 
-5.  Create a factory for cars that sets the make field to either ford / honda / toyota
+5.  Create a factory for cars that sets the make field to either ford / honda / toyota => Done.
 
-6.  Create a database seed to generate 50 cars.
+6.  Create a database seed to generate 50 cars. => Done.
 
-7.  Create a controller, route, and view to show a contact form and add it to the main menu of your site.
+7.  Create a controller, route, and view to show a contact form and add it to the main menu of your site. => Done.
 
 8.  Create a controller, route, and view to show an about page and add it to the main menu of your site.
 
 
-        =============Unit tests=========== 
+            =============Unit tests==============
         
   - Each unit test uses an Assertion to check if it was done.
 
