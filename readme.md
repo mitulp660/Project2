@@ -15,16 +15,16 @@
 
 6.  Create a database seed to generate 50 cars. => Done.
 
-7.  Create a controller, route, and view to show a contact form and add it to the main menu of your site. => Done.
+7.  Create a controller, route, and view to show a contact form and add it to the main menu of your site => Done.
 
-8.  Create a controller, route, and view to show an about page and add it to the main menu of your site.
+8.  Create a controller, route, and view to show an about page and add it to the main menu of your site => Done.
 
 
             =============Unit tests==============
         
   - Each unit test uses an Assertion to check if it was done.
 
-1.  Write a feature test to check if the register return a 200 status code.
+1.  Write a feature test to check if the register return a 200 status code => Done. 
 
 2.  Write a feature test to check if the login pages return a 200 status code.
 
