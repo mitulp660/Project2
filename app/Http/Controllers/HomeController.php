@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use http\Env\Response;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -25,26 +26,13 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
     public function about()
     {
+
         //$users = User::all();
         return view('about');
     }
-    public function contact()
-    {
-        //$users = User::all();
-        return view('contact');
-    }
-    public function store(Request $request)
-    {
-        $name = $request->name;
-
-        return redirect()->route('thanks',['name' =>$name]);
-    }
-    public function thanks($name, Request $request)
-    {
-
-        return view('thankyou')->with(compact('name'));
-    }
-
 }
+
+
