@@ -26,11 +26,11 @@
 
 1.  Write a feature test to check if the register return a 200 status code => Done. 
 
-2.  Write a feature test to check if the login pages return a 200 status code.
+2.  Write a feature test to check if the login pages return a 200 status code => Done. 
 
-3.  Write a feature test to check if your about page returns a 200 status code.
+3.  Write a feature test to check if your about page returns a 200 status code => Done. 
 
-4.  Write a feature test to check if your contact page returns a 200 status code.
+4.  Write a feature test to check if your contact page returns a 200 status code => Done. 
 
 5.  Create a unit test to insert a user into the users table.
 

@@ -16,7 +16,7 @@ class ContactPageTest extends TestCase
      */
     public function testContact()
     {
-        //added to have 200 status was geting 302 as a statuse instead 200
+        //added to have 200 status was getting 302 as a status instead 200
 
         $user = User::first();
         $this->be($user);
