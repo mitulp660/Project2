@@ -23,4 +23,5 @@ $factory->define(Carss::class, function (Faker $faker) {
 
         'year' => $faker->year,
     ];
+
 });
