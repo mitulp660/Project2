@@ -16,10 +16,10 @@ class InsertCountCarsTest extends TestCase
      */
     public function testCountCars50()
     {
-        $carsCount = 50;
+        $carssesCount = 50;
 
-        $cars = factory(Carss::class, $carsCount )->create();
-        $this->assertLessThanOrEqual( $carsCount, count( $cars ) );
+        $carsses = factory(Carss::class, $carssesCount )->create();
+        $this->assertLessThanOrEqual( $carssesCount, count( $carsses ) );
         $this->assertTrue(true);
     }
 }
