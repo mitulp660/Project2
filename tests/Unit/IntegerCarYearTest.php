@@ -17,7 +17,7 @@ class IntegerCarYearTest extends TestCase
     public function testIntegerCarYear()
     {
         $carsses =  Carss::first();
-        $this->assertFalse(is_int($carsses->year));
+        $this->assertTrue(is_int($carsses->year));
        $this->assertTrue(true);
     }
 }
